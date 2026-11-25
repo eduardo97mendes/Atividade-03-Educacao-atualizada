@@ -13,8 +13,11 @@
 Os arquivos já estão soltos neste repositório, **não precisa descompactar nada dentro de outra pasta**.
 
 **PASSO 1:** Clique no botão verde **Code** → **Download ZIP**.
+
 **PASSO 2:** Extraia o ZIP baixado (botão direito → **Extrair tudo**) dentro da sua pasta.
+
 **PASSO 3:** No **VS Code**: **Arquivo → Abrir Pasta** e escolha a pasta extraída (a que tem `index.html`, `css`, `img` e `modelo.pdf`).
+
 **PASSO 4:** Abra o `index.html` com o **Live Server** e comece pelo HTML; depois responda o `style.css` de cima para baixo.
 
 ---
