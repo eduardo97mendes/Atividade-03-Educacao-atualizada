@@ -194,7 +194,7 @@ Entregue a pasta ou publique o trabalho no **seu repositório do GitHub** com:
 3. **Texto:** cole o **link do seu repositório**, escreva **@eduardo97mendes** e, se quiser, arraste uma captura de tela da página pronta.
 4. Clique em **Submit new issue** (ou **Create**).
 
-> Escrever `@eduardo97mendes` **dentro da Issue** faz chegar uma notificação para mim. Escrever o @ só no README do seu repositório **não** notifica. Se não conseguir abrir a Issue, mande o link do seu repositório pelo canal da turma.
+> Escrever `@eduardo97mendes` **dentro da Issue** faz chegar uma notificação para mim. Escrever o @ só no README do seu repositório **não** notifica. Se não conseguir abrir a Issue, me envie o link do seu repositório pelo **WhatsApp**.
 
 ---
 
